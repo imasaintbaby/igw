@@ -1,4 +1,3 @@
-random
 user_agent
 bs4
 requests
