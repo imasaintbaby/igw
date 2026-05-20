@@ -1,5 +1,5 @@
 {
-  "name": "vercel-python-app",
+  "name": "igw",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -7,8 +7,8 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest"
+    "next": "14.2.5",
+    "react": "^18",
+    "react-dom": "^18"
   }
 }
